@@ -1,2 +1,3 @@
-# TEAM 7
+#Team 7
+Jin Huai Xuan
 Benjamin Gur
